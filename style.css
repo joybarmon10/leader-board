@@ -1,0 +1,80 @@
+body{
+    background-color: #F3F1FF;
+}
+.bg{
+    background-color: #562EFF;
+    
+    
+    
+}
+.navbar img{
+    width: 30px;
+
+}
+.nav-link{
+    color: white;
+}
+.player img{
+    width: 56px;
+
+    
+}
+main{
+    max-width: 870px;
+    
+    
+}
+
+.top-player{
+    background-color: white;
+    height: 679px;
+
+
+}
+
+.border{
+    background-color: #D1D1D1;
+    height: 0px;
+}
+h3{
+    
+    color:#562EFF;
+    
+}
+.span-color{
+    color: #562EFF;
+}
+h6{
+    color: gray;
+}
+.course{
+    border: none;
+}
+.card-text{
+    color:#ED6B4F ;
+    
+}
+.color{
+    filter: grayscale(100%);
+}
+.span-color-2{
+    margin-left: 10px;
+    color: gray;
+    height: 22px;
+}
+.hr{
+    background-color:#FFE4E8 ;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 2px;
+   padding-left: 1px;
+   border-radius: 14px;
+   margin-left: 15%;
+}
+
+
+.small-footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
